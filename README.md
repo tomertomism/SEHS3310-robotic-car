@@ -13,5 +13,7 @@
 * Finish time: 41s
 * Bugs exist in some circumstances
 
+* The only two files you may able to direct copy: [my_vl53l0x.c](https://github.com/tomertomism/SEHS3310-robotic-car/blob/main/ARM-Code-git/my_vl53l0x.c) and [my_vl53l0x.h](https://github.com/tomertomism/SEHS3310-robotic-car/blob/main/ARM-Code-git/my_vl53l0x.h).
+
 ##Here's Cantonese undernef
-咪抄code，ching。阿sir有晒我code。我唔想你fail嘅，你淨抄coding style都夠你fail。自己做，真係唔難，試下唔好將tasks複雜化。Step by Step做。
+* 咪抄code，ching。阿sir有晒我code。我唔想你fail嘅，你淨抄coding style都夠你fail。自己做，真係唔難，試下唔好將tasks複雜化。Step by Step做。
