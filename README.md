@@ -1,5 +1,18 @@
 ### Licensed by Apache license 2.0
 # SEHS3310-robotic-car
+
+* Demostration Video
+
+[![Watch the video](https://img.youtube.com/vi/OXl6jhx9GE4/0.jpg)](https://youtube.com/shorts/OXl6jhx9GE4?feature=share)
+
+* Front PCB
+
+<img width="512" height="512" alt="0" src="https://github.com/tomertomism/SEHS3310-robotic-car/blob/main/1.png" />
+
+* Back PCB
+
+<img width="512" height="512" alt="1" src="https://github.com/tomertomism/SEHS3310-robotic-car/blob/main/2.png" />
+
 ## Please have a look if you are taking SEHS3310 as well.
 * First, Yes, my code can do the task smoothly. Try It.
 * But PLEASE! Write your own codes, this program should not be your final product, Those programmes are just for reference only. **Directly copy or modify without acknowledgement may result in plagiarism, aka ["academic dishonesty"](https://www.cpce-polyu.edu.hk/academic-registry/academic-integrity---student-conduct/academic-integrity).**
